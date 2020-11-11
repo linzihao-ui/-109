@@ -1,3 +1,9 @@
+# 109計概期中考
+
+
+```
+
+
 RFID英文全名:Radio Frequency IDentification
 1.通過無線電訊號識別特定目標並讀寫相關數據
 2.無需識別系統與特定目標之間建立機械或者光學接觸。
@@ -35,6 +41,6 @@ SEO英文全名:Search ine optimization
 1.是一種搜尋引擎運作
 2.調整網站or提高網站搜尋排名方式
 
-
+```
 
 
